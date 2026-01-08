@@ -1,5 +1,5 @@
 <div align="center">
-   Hi, I'm João! 👋
+   print("Hello World! I'm João! 👋)
 </div>
 <div align="center">
 <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBzODA4ODQxcnFtc2NjZnNjeWV6cHoyODcxN3F6ODJuc3dieHdxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i5s5Xm9Wq0ogU3Rh49/giphy.gif width="500px">
