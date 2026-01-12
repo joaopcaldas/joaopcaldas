@@ -19,7 +19,7 @@
 </div>
 
 <div>
- Certified as Data Analyst and Data Scientist by  <img height = "25em" src = https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F/>
+ Certified as Data Analyst and Data Scientist by  <img height = "18em" src = https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F/>
 </div>
 
 <div>
