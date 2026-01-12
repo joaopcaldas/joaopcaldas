@@ -6,26 +6,25 @@
 </div>
 
 <div align = "center">
-   <img href ="https://www.linkedin.com/in/joaopedro-caldas/" target = "_blank" align = "center" alt = "jp_in" width = "40" height = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-   <img align = "center" alt = "jp_kaggle" height = "40" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
+   <img height = "27em" src =  https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white />
+   <img height = "27em" src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
+   <img height = "27em" src = https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white />
+   <img height = "27em" src = https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/>
 </div>
 
 <div>
-   <img height = "60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-   <img height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
+   <img height = "27em"  src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue />
+   <img height = "27em" src = https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white/> 
+   <img height = "27em" src = https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white/>
+   <img height = "27em" src= https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white />
+   <img height = "27em" src = https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white/>
 </div>
 
 <div>
-   <img height = "60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-   <img height = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-   <img height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />              
-</div>
-
-<div>
-   
-   <img height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-   <img height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-   <img height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg" />     
+   <img height = "27em"  src = https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
+   <img height = "27em" src = https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
+   <img height = "27em" src = https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white />
+   <img height = "27em" src=https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white />              
 </div>
 
 <div>
