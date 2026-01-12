@@ -1,5 +1,5 @@
 <div align="center">
-        print("Hello World! I'm João! 👋")
+        print("Hello World! I'm João Caldas! 👋")
 </div>
 
 <br>
@@ -23,25 +23,35 @@
 
 <br>
 
-<div>
-   <img src = https://carbon.now.sh/f9bd0e92-4c6a-4590-bca7-8efcdeaf3907 >
+<div align = "center" >
+        Also known as JP.
+        Engineer focused in Data. Exploring the intersection of Data 
+        and Technology to drive innovation and optimize processes.
+        Passionate Vasco fan and a lifelong learner. Outside the Business and Code, I enjoy 
+        all kinds of games and challenges.
 </div>
 
-<div>
+<div align = "center" >
  Certified as Data Analyst and Data Scientist by  <img height = "21em" src = https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F/>
 </div>
 
 <div>
+<h3>💻 Languages & Analytics</h3>
    <img height = "27em"  src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue />
-   <img height = "27em" src = https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white/> 
    <img height = "27em" src = https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white/>
-   <img height = "27em" src= https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white />
-   <img height = "27em" src = https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white/>
 </div>
 
 <div>
-   <img height = "27em"  src = https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
+<h3> 🛢️ DataBases </h3>
    <img height = "27em" src = https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
    <img height = "27em" src = https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white />
+   <img height = "27em"  src = https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
    <img height = "27em" src=https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white />              
+</div>
+
+<div>
+   <h3> 📊 Business Intelligence </h3>
+   <img height = "27em" src = https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white/>
+   <img height = "27em" src= https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white />
+   <img height = "27em" src = https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white />
 </div>
