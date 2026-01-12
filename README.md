@@ -1,6 +1,9 @@
 <div align="center">
-   print("Hello World! I'm João! 👋")
+        print("Hello World! I'm João! 👋")
 </div>
+
+<br>
+
 <div align="center">
 <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBzODA4ODQxcnFtc2NjZnNjeWV6cHoyODcxN3F6ODJuc3dieHdxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i5s5Xm9Wq0ogU3Rh49/giphy.gif width="500px">
 </div>
@@ -18,8 +21,14 @@
    <img height = "27em" src = https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/>
 </div>
 
+<br>
+
 <div>
- Certified as Data Analyst and Data Scientist by  <img height = "18em" src = https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F/>
+   <img src = https://carbon.now.sh/f9bd0e92-4c6a-4590-bca7-8efcdeaf3907 >
+</div>
+
+<div>
+ Certified as Data Analyst and Data Scientist by  <img height = "21em" src = https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F/>
 </div>
 
 <div>
